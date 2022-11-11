@@ -3,8 +3,9 @@
 
 <h2>Description</h2>
 This project consists of a Mortgage Calculator programmed in Java. The program is designed to take user input for the principle mortgage loan amount, the monthly interest, and the time period of the loan in years and calculate the monthly interest payment to display it on the console. It also calculates the remaining balance after each payment until the balance reaches zero and displays it on the console. 
-
-This project was completed as a practice exercise while working through the "Ultimate Java Mastery Series" class by Mosh Hamedani at codewithmosh.com. The focus of this exercise was learning to create and implement classes, methods, and objects, as well as focusing on refactoring code for greater readability. 
+<br />
+<br />
+This project was completed as a practice exercise while working through the <a href="https://codewithmosh.com/p/the-ultimate-java-mastery-series">Ultimate Java Mastery Series</a> class by Mosh Hamedani. The focus of this exercise was learning to create and implement classes, methods, and objects, as well as focusing on refactoring code for greater readability. 
 <br />
 
 
